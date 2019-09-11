@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MayFresh Mobile</string>
+    <string name="register_intro">You can use your Naira Master card or Debit card to activate your mobile banking.  </string>
+    <string name="register_summary">Card details are not required for transactions after registration and activation.</string>
+    <string name="mobile_pin_intro">Please set your mobile 5 digits pin for your mobile transactions.</string>
+    <string name="transfer_intro">Enter the recipient account number and amount</string>
+    <string name="recharge_intro">Enter the recipient phone number and amount</string>
+</resources>
